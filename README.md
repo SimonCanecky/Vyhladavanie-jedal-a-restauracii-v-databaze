@@ -9,7 +9,5 @@
 - Zoradenie môže byť podľa výhodnosti ponuky (cena jedla a dopravy) alebo podľa abecedy.
 - Navyše, vo výpise bude označená najvýhodnejšia ponuka.
 - Ak je program spustený bez prepínačov, vypíšu sa všetky reštaurácie z databázy a ich menu.
-
 #
-
-![image](https://github.com/SimonCanecky/Vyhladavanie-jedal-a-restauracii-v-databaze/assets/71691945/28c358c7-c656-48d8-87ea-e230c63fa77b)
+![image](https://github.com/SimonCanecky/Vyhladavanie-jedal-a-restauracii-v-databaze/assets/71691945/fdb0093d-f709-42fa-9cff-de2c04a33563)
