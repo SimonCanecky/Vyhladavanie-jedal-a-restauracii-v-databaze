@@ -10,6 +10,6 @@
 - Navyše, vo výpise bude označená najvýhodnejšia ponuka.
 - Ak je program spustený bez prepínačov, vypíšu sa všetky reštaurácie z databázy a ich menu.
 
-
+#
 
 ![image](https://github.com/SimonCanecky/Vyhladavanie-jedal-a-restauracii-v-databaze/assets/71691945/28c358c7-c656-48d8-87ea-e230c63fa77b)
